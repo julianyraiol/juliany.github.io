@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 _site
 .sass-cache
 .jekyll-metadata
@@ -6,6 +7,8 @@ _site
 *.sublime-workspace
 .DS_Store
 =======
+=======
+>>>>>>> 8e0b6e1d5599f1903349288cb29a0220cfb3adcf
 *.gem
 *.rbc
 /.config
@@ -56,4 +59,7 @@ build-iPhoneSimulator/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+<<<<<<< HEAD
+>>>>>>> 8e0b6e1d5599f1903349288cb29a0220cfb3adcf
+=======
 >>>>>>> 8e0b6e1d5599f1903349288cb29a0220cfb3adcf
