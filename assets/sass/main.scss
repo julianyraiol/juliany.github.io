@@ -1350,7 +1350,7 @@ $size-header-pad: 4em;
 
 	@include breakpoint('<=large') {
 
-		$size-header-width: 30%;
+		$size-header-width: 100%;
 		$size-header-pad: 3em;
 
 		/* Header */
