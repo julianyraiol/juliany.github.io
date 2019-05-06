@@ -20,6 +20,7 @@
 /test/version_tmp/
 /tmp/
 
+
 # Used by dotenv library to load environment variables.
 # .env
 
@@ -42,6 +43,8 @@ build-iPhoneSimulator/
 ## Documentation cache and generated files:
 /.yardoc/
 /_yardoc/
+/_jekyll
+/_site
 /doc/
 /rdoc/
 
