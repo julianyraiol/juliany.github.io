@@ -2,6 +2,12 @@
 
 Software Developer at INDT/Motorola Mobility with Frontend/Backend development, Unity, Automataded Tests, Python and Data Analysis experience. 
 
+I'm organizer of PyLadies Manaus and PyData Manaus. They has mission of talking about Diversity and Python inside tecnology context. 
+
+I love share what I learn and have so much passion for computer science. I believe that knowledge is revolucionary and it need to be easy access. 
+
+I have interest in Software and Data Engineering, Data Science and Technology Communities. 
+
 ## Requirements
 
 ## Installation
