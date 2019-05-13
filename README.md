@@ -1,5 +1,7 @@
 ## About me
 
+Software Developer at INDT/Motorola Mobility with Frontend/Backend development, Unity, Automataded Tests, Python and Data Analysis experience. 
+
 ## Requirements
 
 ## Installation
