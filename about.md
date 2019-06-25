@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+É bacharela em Sistemas de Informação pela Universidade do Estado do Amazonas e técnica em Informática pela Fundação Nokia de Ensino. Durante a graduação participou de competições de programação, onde obteve bons resultados, como o 1° lugar na Maratona de Programação do Norte (2017), dentre outras conquistas. Tem experiência com desenvolvimento Web/Mobile, Unity, Python e Ciência de Dados. Atualmente, trabalha como desenvolvedora de software no INDT (Instituto de Desenvolvimento Tecnológico) em um projeto junto à Motorola Mobility (a Lenovo Company).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+É uma das organizadoras do PyLadies Manaus, um grupo internacional de orientação com foco em ajudar mais mulheres a se tornarem participantes e líderes ativas na comunidade de código aberto Python.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Além da comunidade PyData Manaus, que promove o debate acerca de melhores práticas, novas abordagens e tecnologias emergentes para gerenciamento, processamento, análise e visualização de dados, incluindo Python como ferramenta.
 
+Adora compartilhar o que aprende e nutre um amor intenso pela área de computação. Acredita que o conhecimento é transformador e, por isso, deve ser de fácil acesso.
 
-[jekyll-organization]: https://github.com/jekyll
+Possui interesse nas áreas de Desenvolvimento de Software, Ciência de Dados e Comunidades dentro da área de tecnologia.
