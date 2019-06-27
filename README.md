@@ -68,6 +68,9 @@ And then execute:
 Or install it yourself as:
 
     $ gem install jekyll-sleek
+    
+
+    $  jeykyll serve
 
 ## File Structure Overview
 
