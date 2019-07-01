@@ -28,8 +28,13 @@
     {% include critical.css %}
 
   </style>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="preload" href="{{ '/assets/css/main.css' | relative_url }}" as="style" onload="this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}"></noscript>
+  <link rel="preload" href="{{ '/assets/css/materialize.min.css' | relative_url }}" as="style" media="screen,projection" onload="this.rel='stylesheet'">
+
+  <noscript>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  </noscript>
   <script type="text/javascript">
    {% include loadCss.js %}
   </script>
