@@ -1,70 +1,3 @@
-<<<<<<< HEAD
-# SITE CONFIGURATION
-title: Juliany Raiol # your site title
-author: julianyraiol # You :P
-description: É bacharela em Sistemas de Informação pela Universidade do Estado do Amazonas. Tem experiência com desenvolvimento Web/Mobile, Unity e Análise de Dados. 
-Atualmente, trabalha como desenvolvedora de software na iTriad Pesquisa e Desenvolvimento.
-
-url: "https://julianyraiol.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-
-# SEO PLUGIN
-social:
-  name: Juliany Raiol
-  links:
-    - https://twitter.com/julianyraiol
-    - https://www.facebook.com/julianyraiol
-    - https://www.linkedin.com/in/julianyraiol
-    - https://github.com/julianyraiol
-
-# THEME SETTINGS
-navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'Sobre', link: '/about'}
-
-tagline: 
-
-profile_img: favicon.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
-
-email: julianyraiol@gmail.com # email for form submission
-
-twitter_username: julianyraiol # replace with your_twitter_username or comment to remove link from footer
-github_username:  julianyraiol # replace with your_github_username or comment to remove link from footer
-instagram_username: juliany.raiol # replace with your_instagram_username or comment to remove link from footer
-
-disqus:
-  shortname: julianyraiol # to enable comments replace with your_disqus_shortname
-
-google_tag_manager: UA-142700185-1 # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
-
-service_worker: true
-
-# BUILD SETTINGS
-markdown: kramdown
-highlighter: rouge # or pygments or null
-# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
-exclude:
-  - README.md
-  - node_modules
-  - script
-  - package.json
-  - package-lock.json
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-  - npm-debug.log
-  - gulpfile.js
-  - sleek.jpg
-
-include: ['_pages']
-permalink: /:title/
-
-compress_html:
-  clippings: all
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-=======
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -121,4 +54,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
->>>>>>> add new template
+

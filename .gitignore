@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .sass-cache
 .jekyll-metadata
 *.sublime-project
@@ -150,10 +149,9 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
-=======
+
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
->>>>>>> add new template
