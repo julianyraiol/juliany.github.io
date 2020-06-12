@@ -31,6 +31,8 @@ linkedin_username: julianyraiol
 author: Juliany Raiol
 background: "/img/banner_home4.jpg"
 
+google_analytics: UA-142700185-1
+
 # Build settings
 #theme: minima
 #theme: jekyll-theme-clean-blog
