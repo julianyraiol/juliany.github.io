@@ -1,0 +1,37 @@
+- title: Entrevista para o EmíliasPodcast
+  event: EmíliasPodcast
+  year: 2020
+  img_path: /talks/emilias_podcast/foto.jpeg
+  link: https://www.youtube.com/watch?v=i_b9sbtH97Y&feature=youtu.be
+
+- title: PyLadies Manaus 
+  event: Papo Entre PyLadies
+  year: 2020
+  img_path: /talks/papo_entre_pyladies/foto.png
+  slide: https://github.com/pyladiesmanaus/Palestras/blob/master/PapoEntrePyLadies.pdf
+  link: https://www.youtube.com/watch?v=he4WaRFOdn4
+
+- title: Empoderando Mulheres na Amazônia
+  event: Python Brasil [15]
+  year: 2019
+  img_path: /talks/pybr_15/foto_pyladies.jpg
+  slide: https://github.com/pythonbrasil/talks/blob/master/pythonbrasil-2019/talks/empoderando-mulheres-na-amazonia/pybr2019-pyladies-manaus-empoderando-mulheres-na-amazonia.pdf
+
+- title: Ciência de Dados o Cotidiano - O que os dados dizem sobre o real comportamento de população?
+  event: Python Brasil [15]
+  year: 2019
+  img_path: /talks/pybr_15/foto.jpg
+  slide: /talks/pybr_15/slide.pdf
+
+- title: Introdução à Ciência de Dados
+  event: Feira do Pólo Digital de Manaus
+  year: 2019
+  img_path: /talks/feira_do_polo/foto.jpg
+  slide: https://github.com/pydatamanaus/Feira-Polo-Digital/blob/master/Palestra-Pydata-Polo.pdf
+
+
+- title: Sistema para monitoramento e detecção de Parkinson usando o GearS3
+  event: The Developers Conference - SP
+  year: 2018
+  img_path: /talks/tdc_sp_2018/foto.jpeg
+  slide: /talks/tdc_sp_2018/slide.pdf
